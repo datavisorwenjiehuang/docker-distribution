@@ -15,7 +15,7 @@ var ossParamsToSign = map[string]bool{
 	"acl":                          true,
 	"append":                       true,
 	"bucketInfo":                   true,
-	"cname":                        true,
+	"cname":                        false,
 	"comp":                         true,
 	"cors":                         true,
 	"delete":                       true,
